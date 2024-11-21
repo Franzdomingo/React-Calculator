@@ -123,6 +123,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Name - Franz Phillip G. Domingo
+Email: 
+- Orstedfinance@gmail.com
+- Orstedfinance@icloud.com
+- 202110383@fit.edu.ph
 
-Project Link: [https://github.com/yourusername/react-calculator](https://github.com/yourusername/react-calculator) 
+
+
